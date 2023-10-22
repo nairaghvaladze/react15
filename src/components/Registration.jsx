@@ -87,7 +87,7 @@ function  Registration() {
           />
           {errors.password && <div className="error-text">{errors.password}</div>}
         </div>
-        <button className='btn btn-success mt-3' type="submit">მომხმარებლსი რეგისტრაცია</button>
+        <button className='btn btn-success mt-3' type="submit">მომხმარებლის რეგისტრაცია</button>
       </form>
     </div>
   );
