@@ -1,0 +1,18 @@
+.error {
+    border: 1px solid red;
+  }
+  
+  .error-text {
+    color: red;
+    font-size: 14px;
+  }
+.myform{
+  width: 50%;
+  position: absolute;
+  left: 28%;
+}  
+.avtform {
+  width: 50%;
+  position: absolute;
+  left: 28%;
+}
