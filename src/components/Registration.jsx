@@ -61,7 +61,7 @@ function  Registration() {
             name="username"
             value={formData.username}
             onChange={handleInputChange}
-            className={errors.username ? 'error' : ''}
+            className="form-control", {errors.username ? 'error' : ''}
           />
           {errors.username && <div className="error-text">{errors.username}</div>}
         </div>
